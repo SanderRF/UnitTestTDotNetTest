@@ -1,0 +1,17 @@
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\PrimeService.Test.deps.json
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\PrimeService.Test.runtimeconfig.json
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\PrimeService.Test.runtimeconfig.dev.json
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\PrimeService.Test.dll
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\PrimeService.Test.pdb
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\primeservice.dll
+C:\source\unit-testing-using-mstest\PrimeService.Test\bin\Debug\netcoreapp2.1\primeservice.pdb
+C:\source\unit-testing-using-mstest\PrimeService.Test\obj\Debug\netcoreapp2.1\PrimeService.Test.csprojAssemblyReference.cache
+C:\source\unit-testing-using-mstest\PrimeService.Test\obj\Debug\netcoreapp2.1\PrimeService.Test.csproj.CoreCompileInputs.cache
+C:\source\unit-testing-using-mstest\PrimeService.Test\obj\Debug\netcoreapp2.1\PrimeService.Test.AssemblyInfoInputs.cache
+C:\source\unit-testing-using-mstest\PrimeService.Test\obj\Debug\netcoreapp2.1\PrimeService.Test.AssemblyInfo.cs
+C:\source\unit-testing-using-mstest\PrimeService.Test\obj\Debug\netcoreapp2.1\PrimeService.Test.csproj.CopyComplete
+C:\source\unit-testing-using-mstest\PrimeService.Test\obj\Debug\netcoreapp2.1\PrimeService.Test.dll
+C:\source\unit-testing-using-mstest\PrimeService.Test\obj\Debug\netcoreapp2.1\PrimeService.Test.pdb
